@@ -1,0 +1,14 @@
+# Core DL course dependencies - pinned to Google Colab versions (March 2026)
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+pillow==11.3.0
+tqdm==4.67.3
+imutils==0.5.4
+opencv-python-headless==4.13.0.92
+
+# Jupyter (for local execution)
+jupyter
+ipykernel
